@@ -1,0 +1,13 @@
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\bin\Debug\FaviconBrowser.exe.config
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\bin\Debug\FaviconBrowser.exe
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\bin\Debug\FaviconBrowser.pdb
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\obj\Debug\FaviconBrowser.csprojResolveAssemblyReference.cache
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\obj\Debug\MainWindow.baml
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\obj\Debug\MainWindow.g.cs
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\obj\Debug\App.g.cs
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\obj\Debug\FaviconBrowser_MarkupCompile.cache
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\obj\Debug\FaviconBrowser.g.resources
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\obj\Debug\FaviconBrowser.Properties.Resources.resources
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\obj\Debug\FaviconBrowser.csproj.GenerateResource.Cache
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\obj\Debug\FaviconBrowser.exe
+D:\SourcesCS\AlexDavies\faviconbrowser\TAP version\FaviconBrowser\obj\Debug\FaviconBrowser.pdb
